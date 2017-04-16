@@ -1,0 +1,1 @@
+INSERT into LOGIN (USERID , PASSWORD) values ('leykun' , '11leykun');
